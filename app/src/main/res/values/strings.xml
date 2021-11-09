@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Student Companion App</string>
+    <string name="fab">FAB</string>
+    <string name="username">UserName</string>
+    <string name="user_password">User Password</string>
+    <string name="login">login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="register">Register</string>
+    <string name="email_address">Email Address</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="student_companion_application">Student Companion Application</string>
+    <string name="student_login">Student Login</string>
+    <string name="new_student_registration">New Student Registration</string>
+    <string name="skip">Skip</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="richard_carlos">Richard Carlos Institute was established in the year 2004 with the aim of providing affordable quality education to the community and promoting job ready technical skills in youth. RC Institute offers both Short and Industry recognised full courses in Technical Studies. The Institute is situated within the CBD of Jeansville.</string>
+    <string name="faculties">FACULTIES</string>
+</resources>

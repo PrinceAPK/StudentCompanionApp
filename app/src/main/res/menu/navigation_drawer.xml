@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+    <item android:id="@+id/navigation_dash"
+        android:title="Home"
+        android:icon="@drawable/ic_home_24"/>
+
+    <item android:id="@+id/navigation_my_campus"
+        android:title="My Campus"
+        android:icon="@drawable/ic_domain_24"/>
+
+    <item android:id="@+id/navigation_announcements"
+        android:title="Announcements"
+        android:icon="@drawable/ic_announcement_24"/>
+
+    <item android:id="@+id/navigation_documents"
+        android:title="PDFs"
+        android:icon="@drawable/ic_book_24"/>
+
+    <item android:id="@+id/navigation_productivity"
+        android:title="Productivity"
+        android:icon="@drawable/ic_productivity"/>
+
+    <item android:id="@+id/navigation_themes"
+        android:title="Themes"
+        android:icon="@drawable/ic_themes"/>
+
+    <item android:id="@+id/navigation_resources"
+        android:title="External Resources"
+        android:icon="@drawable/ic_open_in_browser_24"/>
+
+    <item android:id="@+id/navigation_share"
+        android:title="Share"
+        android:icon="@drawable/ic_share_24"/>
+    </group>
+
+</menu>
